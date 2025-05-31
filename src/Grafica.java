@@ -2,6 +2,8 @@
 import java.awt.event.*;
 import javax.swing.*;
 import java.awt.*;
+//via
+
 
 public class Grafica extends JFrame implements ActionListener{
 	private JButton conferma;
