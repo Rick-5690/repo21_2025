@@ -1,4 +1,4 @@
-//versione 2c
+//versione 2 cc
 import java.awt.event.*;
 import javax.swing.*;
 import java.awt.*;
