@@ -2,7 +2,8 @@
 import java.awt.event.*;
 import javax.swing.*;
 import java.awt.*;
-//via
+//via da qui
+
 
 
 public class Grafica extends JFrame implements ActionListener{
